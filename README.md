@@ -83,3 +83,23 @@ Gives the maximum of abs(sin) + abs(cos): 1.418539047241211
 
 Ends with index overflow on 1.1796523E7 deg to 1.1796527E7 deg scan
 ```
+
+**For negative angles, there're uncountable ties but nothing stronger than f45.01**
+
+Here are some useful ones.
+```
+Range: -315.01096 to -315.0055
+Range: -315.0 to -314.9945
+Gives the maximum of abs(sin) + abs(cos): 1.4142136573791504
+
+Range: -225.01097 to -225.0055
+Range: -225.0 to -224.9945
+Gives the maximum of abs(sin) + abs(cos): 1.4142136573791504
+
+Range: -135.01097 to -135.00551
+Range: -134.99998 to -134.9945
+Gives the maximum of abs(sin) + abs(cos): 1.4142136573791504
+
+Range: -45.005493 to -45.005493
+Gives the maximum of abs(sin) + abs(cos): 1.4142136573791504
+```
