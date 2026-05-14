@@ -103,3 +103,12 @@ Gives the maximum of abs(sin) + abs(cos): 1.4142136573791504
 Range: -45.005493 to -45.005493
 Gives the maximum of abs(sin) + abs(cos): 1.4142136573791504
 ```
+
+Fun fact: here is an angle that is stronger than f45.01 but weaker than regular half angles like f134.9835. It is the smallest yaw I found with this intermediate strength.
+
+```
+Range: 46034.973 to 46034.977
+Gives the maximum of abs(sin) + abs(cos): 1.4142812490463257
+```
+
+Sort of remind me of continuum hypothesis. Lol.
