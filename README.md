@@ -1,8 +1,16 @@
+# Strongest Positive 45 strafe angles
+
+**Just an documentation**
+
+**If an angle is weaker than existing previous smaller angles, it will be ignored**
+
+Program Output:
 
 ```
 Range: 44.99451 to 44.999992
 Range: 45.005493 to 45.01098
 Gives the maximum of abs(sin) + abs(cos): 1.4142136573791504
+(this is the well known f45.01, the only non half angle here)
 
 Range: 134.9835 to 134.9835
 Range: 134.989 to 134.989
